@@ -1,6 +1,9 @@
 # gifdl
 Tool to download gif 🔥
+Uses Vlang 
 
 ```
-$v run gifdl.v -u "https://......gif" -o "./output_file.gif" 
+$v .
+
+$./gifdl.exe -u "https://......gif" -o "./output_file.gif" 
 ```
