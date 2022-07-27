@@ -1,14 +1,13 @@
-# gifdl
-Tool to download gif 🔥
+<h1 style="font-family:monospace">Gifdl</h1>
+<h3 style="font-family:monospace">Tool to download gif 🔥</h3>
 
+<br>
+<h2 style="font-family:monospace" >Uses Vlang(V)</h2>
 
-<h2>Uses Vlang(V)</h2>
-
-<a href="https://vlang.io">vlang</a>
-- https://github.com/vlang/v
+https://github.com/vlang/v
 
 ```
-$v .
+$ v .
 
-$./gifdl.exe -u "https://......gif" -o "./output_file.gif" 
+$ ./gifdl.exe -u "https://......gif" -o "./output_file.gif" 
 ```
